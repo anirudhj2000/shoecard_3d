@@ -26,6 +26,7 @@ module.exports = (async () => {
         "woff2",
         "obj",
         "mtl",
+        "glb",
       ],
       sourceExts: [
         ...sourceExts,
